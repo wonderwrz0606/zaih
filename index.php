@@ -2,8 +2,8 @@
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
  * wp-blog-header.php which does and tells WordPress to load the theme.
+ * 123456789
  * sam
- * 123456
  * @package WordPress
  */
 
